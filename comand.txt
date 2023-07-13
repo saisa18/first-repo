@@ -1,0 +1,7 @@
+ git config --global use.name "saisatripathi"
+    3  git config --global user.email "saisatripathibct@kec.edu.np"
+    4  git status
+    5  git config --global user.email
+    6  git config --global user.name
+    7  git config --global user.name "saisatripathi"
+    8  git config --global user.name
